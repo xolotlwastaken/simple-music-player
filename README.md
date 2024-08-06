@@ -1,6 +1,6 @@
 # music_player
 
-A new Flutter project.
+A minimalistic, simple yet elegant music playing app. Created with the help of the following tutorial: [Minimal Music Player • Flutter Tutorial by Mitch KoKo](https://www.youtube.com/watch?v=Zr4j6W7nmpg&t=1961s)
 
 ## Getting Started
 
